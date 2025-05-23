@@ -1,6 +1,6 @@
-### This Repo does not get updated. This is just for issues!
+# This Repo does not get updated. This is just for issues!
 
-# AIO-CTM
+## AIO-CTM
 A more accurate look to one of the first ores in the game!
 
 A very small resource pack that recolors the iron ore.
