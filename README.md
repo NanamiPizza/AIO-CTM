@@ -1,3 +1,5 @@
+### This Repo does not get updated. This is just for issues!
+
 # AIO-CTM
 A more accurate look to one of the first ores in the game!
 
